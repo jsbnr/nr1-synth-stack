@@ -1,5 +1,7 @@
 # New Relic Synthetic Stack Custom Visualization
 
+Please find the new home for this repository here: [https://github.com/newrelic-experimental/nr1-synthetic-stack](https://github.com/newrelic-experimental/nr1-synthetic-stack)
+
 🚧 **WORK IN PROGRESS!** This visualization is still being built 🚧
 
 This visualization provides a historical view of multiple synthetic journeys at once. It is driven by relatively simple NRQL configuration to make it easy to understand and reason about synthetic monitor status across a broad range of monitors at once.
