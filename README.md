@@ -1,6 +1,8 @@
 # New Relic Synthetic Stack Custom Visualization
 
-Please find the new home for this repository here: [https://github.com/newrelic-experimental/nr1-synthetic-stack](https://github.com/newrelic-experimental/nr1-synthetic-stack)
+## Please find the new home for this repository here: [https://github.com/newrelic-experimental/nr1-synthetic-stack](https://github.com/newrelic-experimental/nr1-synthetic-stack)
+
+---
 
 🚧 **WORK IN PROGRESS!** This visualization is still being built 🚧
 
